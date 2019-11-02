@@ -13,6 +13,6 @@
     "loadsh": "0.0.4",
     "mysql": "^2.17.1",
     "nodemon": "^1.19.1",
-    "sequelize": "^5.9.0"
+    "sequelize": "^5.15.1"
   }
 }
